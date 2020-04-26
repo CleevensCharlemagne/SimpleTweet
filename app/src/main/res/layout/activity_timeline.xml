@@ -37,6 +37,7 @@
                 android:clickable="true"
                 android:src="@drawable/pen"
                 app:layout_anchor="@id/rvTweets"
+                app:backgroundTint="@color/primary"
                 app:layout_anchorGravity="bottom|right|end"/>
 
         </androidx.coordinatorlayout.widget.CoordinatorLayout>
