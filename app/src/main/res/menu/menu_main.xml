@@ -6,5 +6,6 @@
         android:id="@+id/twitterBird"
         android:icon="@drawable/twt"
         android:title="iconTwitter"
+        app:backgroundTint="@color/primary"
         app:showAsAction="always" />
 </menu>
