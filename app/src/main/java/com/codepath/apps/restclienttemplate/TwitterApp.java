@@ -17,7 +17,8 @@ import com.facebook.stetho.Stetho;
  *
  */
 public class TwitterApp extends Application {
-
+	
+// The database
     MyDatabase myDatabase;
 
     @Override
