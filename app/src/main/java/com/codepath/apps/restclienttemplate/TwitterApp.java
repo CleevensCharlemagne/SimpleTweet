@@ -16,6 +16,8 @@ import com.facebook.stetho.Stetho;
  *     // use client to send requests to API
  *
  */
+
+//Twitter app class
 public class TwitterApp extends Application {
 	
 // The database
