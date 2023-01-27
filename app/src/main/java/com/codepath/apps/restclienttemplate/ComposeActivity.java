@@ -18,6 +18,7 @@ import org.parceler.Parcels;
 
 import okhttp3.Headers;
 
+//Compose activity
 public class ComposeActivity extends AppCompatActivity {
 
     public static final String TAG = "ComposeActivity";
