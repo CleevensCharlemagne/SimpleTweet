@@ -32,7 +32,7 @@ The following **bonus** features are implemented:
 
 - [ ] User can tap a tweet to **open a detailed tweet view**
   - [ ] User can **take favorite (and unfavorite) or reweet** actions on a tweet
-- [ ] Use the popular ButterKnife annotation library to reduce view boilerplate.
+- [ ] Use the popular ButterKnife annotation library to reduce view boilerplate
 - [ ] On the Twitter timeline, leverage the [CoordinatorLayout](http://guides.codepath.org/android/Handling-Scrolls-with-CoordinatorLayout#responding-to-scroll-events) to apply scrolling behavior that [hides / shows the toolbar](http://guides.codepath.org/android/Using-the-App-ToolBar#reacting-to-scroll).
 
 The following **additional** features are implemented:
